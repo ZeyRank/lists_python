@@ -1,1 +1,2 @@
 1.0 ver - Project with 3funcs.
+1.1 ver - Bug fix(ValueError)
