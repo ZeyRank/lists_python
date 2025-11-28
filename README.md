@@ -1,3 +1,3 @@
 ___LIST-CONVECTOR___
-Created to convert list in different forms and so on
+Created to convert list in different forms and so on for beter experience
 ...
